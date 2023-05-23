@@ -1,1 +1,2 @@
-# Snoop - Quality-Control-Filter
+Quality control filter
+
